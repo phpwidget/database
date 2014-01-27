@@ -1,0 +1,17 @@
+{
+    "name": "wigex/database",
+    "description": "NotORM wrapper",
+    "authors": [
+        {
+            "name": "Martin Krizan",
+            "email": "mnohosten@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+	    "vrana/notorm": "dev-master"
+    },
+    "require-dev": {
+        "tracy/tracy": "dev-master"
+    }
+}
